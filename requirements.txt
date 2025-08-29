@@ -5,3 +5,4 @@ numpy==1.26.4
 matplotlib==3.9.2
 scipy==1.14.1
 yahooquery==2.3.7
+lxml==4.9.3
